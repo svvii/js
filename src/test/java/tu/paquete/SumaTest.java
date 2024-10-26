@@ -1,7 +1,7 @@
 package tu.paquete;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test; // Cambia a JUnit 5
+import static org.junit.jupiter.api.Assertions.assertEquals; // Cambia a JUnit 5
 
 public class SumaTest {
 
