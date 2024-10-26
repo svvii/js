@@ -1,4 +1,4 @@
-package calculadora;
+package tu.paquete;
 
 public class Suma {
     public static Object sumar(Object a, Object b) {
